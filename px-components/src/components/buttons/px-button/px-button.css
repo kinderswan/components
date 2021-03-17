@@ -1,0 +1,5 @@
+.px-button-wrapper {
+  display: flex;
+  max-height: 3rem;
+  width: 10%;
+}

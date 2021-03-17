@@ -22,7 +22,12 @@
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@stencil/core": "2.4.0"
+    "@stencil/core": "2.4.0",
+    "pixi.js": "6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/puppeteer": "^5.4.3"
+  }
 }
